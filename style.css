@@ -1,0 +1,45 @@
+
+
+/* Footer */
+footer {
+    padding: 6rem 0;
+    color: #fff;
+    text-align: center;
+}
+
+footer h3 {
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-bottom: 25px;
+}
+
+footer a.btn-outline-light {
+    border-radius: 100%;
+    width: 50px;
+    height: 50px;
+    line-height: 36px;
+    padding: 6px;
+    margin: 0 5px;
+    border-width: 2px;
+    /*
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    */
+}
+
+footer i {
+    width: 25px;
+    height: 20px;
+    /* L'élément sera pivoté en 0.5s */
+    transition: 0.5s;
+}
+
+footer a:hover i {
+    transform: rotate(360deg);
+}
+
+.bg-copyright {
+    background-color: #141719;
+    color: #fff;
+}
