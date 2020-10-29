@@ -1,5 +1,6 @@
 
 
+
 .main{
     display: flex;
     flex-wrap: wrap;
@@ -31,4 +32,20 @@
 
 h1{
     color: chartreuse;
+
+.navbar-brand{
+    font-size: 1.75em;
+    font-weight:700;
+}
+#navbarNav .nav-link{
+    color:#fff;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+#navbarNav .nav-link:hover{
+    color:rgb(99, 207, 193);
+}
+.navbar{
+    font-weight:700;
 }
