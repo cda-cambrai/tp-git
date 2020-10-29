@@ -1,5 +1,3 @@
-
-
 /* Footer */
 footer {
     padding: 6rem 0;
@@ -42,4 +40,54 @@ footer a:hover i {
 .bg-copyright {
     background-color: #141719;
     color: #fff;
+
+
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    text-align: justify;
+    margin: 10px;
+    background-color: blueviolet;
+    width: auto;
+    justify-content: center;
+}
+
+
+.text{
+    width: 40%;
+    height: auto;
+    padding: 25px;
+    color: pink;
+}
+
+.mac{
+    width: 40%;
+    height: auto;
+}
+
+.pareil{
+    font-weight: bold;
+    color: coral;
+}
+
+h1{
+    color: chartreuse;
+
+.navbar-brand{
+    font-size: 1.75em;
+    font-weight:700;
+}
+#navbarNav .nav-link{
+    color:#fff;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+#navbarNav .nav-link:hover{
+    color:rgb(99, 207, 193);
+}
+.navbar{
+    font-weight:700;
+
 }
