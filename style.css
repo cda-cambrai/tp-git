@@ -1,0 +1,34 @@
+
+
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    text-align: justify;
+    margin: 10px;
+    background-color: blueviolet;
+    width: auto;
+    justify-content: center;
+}
+
+
+.text{
+    width: 40%;
+    height: auto;
+    padding: 25px;
+    color: pink;
+}
+
+.mac{
+    width: 40%;
+    height: auto;
+}
+
+.pareil{
+    font-weight: bold;
+    color: coral;
+}
+
+h1{
+    color: chartreuse;
+}
